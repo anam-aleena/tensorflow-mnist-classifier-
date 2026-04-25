@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.keras
+*.h5
+.env
+.venv
+venv/
+.ipynb_checkpoints/
+*.DS_Store
+models/
+reports/
